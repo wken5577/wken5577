@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Aws Ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
 <img src="https://img.shields.io/badge/Aws route 53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=black">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">
+<img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
 </p>
 
 ## Status
