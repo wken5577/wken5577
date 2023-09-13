@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20🤗&desc=I'm%20Hyunkyu%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Lee%20Hyun%20Kyu%20🤗&desc=backend%20developer%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
-## Language
+### Language
 
 <p align="center" display="inline-block">
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=Java&logoColor=black">
@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 </p>
 
-## Skills
 
+### Skills
 <p align="center" display="inline-block">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
 </p>
 
-## Status
+### Status
 
 <div align="center">
 
@@ -36,4 +36,9 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wken5577)](https://solved.ac/wken5577)
 
+</div>
+<hr/>
+<div align="center">
+    <a href="https://hyunkyle.notion.site" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+   <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42seoul-1A285F?style=flat&logo=42&logoColor=white"/></a>
 </div>
