@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 </p>
 
-
 ### Skills
+
 <p align="center" display="inline-block">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
@@ -32,13 +32,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wken5577&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wken5577&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wken5577&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wken5577)](https://solved.ac/wken5577)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=wken5577)](https://solved.ac/wken5577)
-
-</div>
 <hr/>
-<div align="center">
     <a href="https://hyunkyle.notion.site" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
    <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42seoul-1A285F?style=flat&logo=42&logoColor=white"/></a>
+   
 </div>
