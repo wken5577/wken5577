@@ -12,6 +12,9 @@
 ### Skills
 
 <p align="center" display="inline-block">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+</br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=black">
 <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=black">
